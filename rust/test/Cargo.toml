@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["Andrew Buntine Of Doom <bunts@hhd.com.au>"]
 
 [dependencies]
-barcoders = {version = "0.5.0", features = ["ascii"]}
+barcoders = {version = "0.5.0", features = ["image"]}
